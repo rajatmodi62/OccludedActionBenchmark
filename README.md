@@ -12,7 +12,7 @@ This is the official implementation and dataset release for our NeurIPS-2023 pap
 
 ## GLOM: Hinton's Islands of agreement. 
 
-> "A Static Image is (a) Rather Boring Video- Dr. Geoff Hinton, Forward Forward Algorithm: Some Preliminary Investigations "
+> "A Static Image is (A) Rather Boring Video- Dr. Geoff Hinton, Forward Forward Algorithm: Some Preliminary Investigations "
 
 Let's do a boring thing for now:
 
