@@ -92,7 +92,18 @@ We present the comparisons of our models with supervised baselines, as well as t
 </div>
 
 
-## Full Benchmark Results 
-### Effect 1
-### Effect 1
-### Effect 1
+## Full Benchmark Analysis 
+### O-UCF Benchmark
+<div align="center">
+<img src="assets/benchmark_oucf.png" alt="Hinton's Islands of agreement" width="900" height="300">
+</div>
+
+### O-JHMDB Benchmark
+<div align="center">
+<img src="assets/benchmark_ojhmdb.png" alt="Hinton's Islands of agreement" width="900" height="300">
+</div>
+
+### OVIS-UCF/ OVIS-JHMDB Benchmark
+<div align="center">
+<img src="assets/benchmark_ovisucf_jhmdb.png" alt="Hinton's Islands of agreement" width="900" height="300">
+</div>
