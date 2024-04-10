@@ -1,6 +1,6 @@
 # On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes
 
-### [Paper](dummy) | [Data](dummy) | [Poster](dummy)
+### [Paper](https://openreview.net/pdf?id=0cltUI2Sto) | [Data](dummy) | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73721.png?t=1699494223.0217297)
 
 [Rajat Modi](https://www.linkedin.com/in/rajat-modi-54377877?originalSubdomain=in)\*,
 [Vibhav Vineet](https://scholar.google.com/citations?user=E_UlAVQAAAAJ&hl=en)\*,
