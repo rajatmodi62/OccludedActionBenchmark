@@ -24,6 +24,7 @@ This is the official implementation and dataset release for our **NeurIPS 2023 p
 <div align="center">
 <img src="assets/island_dataset.gif" alt="Island Datasets" width="600" height="300">
 </div>
+
 ## Limitations of capsules.
 
 >" The fundamental weakness of capsules is that they use a mixture to
