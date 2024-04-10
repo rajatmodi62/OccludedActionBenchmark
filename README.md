@@ -10,7 +10,7 @@
 This is the official implementation and dataset release for our **NeurIPS 2023** paper titled: "On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes".
 
 ## Updates
-- `2024.04`: Can GLOM be made to work? Stay tuned lol.....
+- `2024.04`: Can GLOM be made to work? Stay tuned (lol).....
 - `2023.12`: [NeurIPS23] Check out our other exciting work which studies occlusions in action recognition [here](https://shroglck.github.io/rev_unseen/) !!
 
 ## GLOM: Hinton's Islands of agreement. 
