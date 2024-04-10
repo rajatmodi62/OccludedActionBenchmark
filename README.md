@@ -47,6 +47,9 @@ We now confirm that capsules undergo collapse if too many objects are present in
 ## Dataset Release.
 
 What happens when number of objects in the scene scale up? To answer this, we **release** all the datasets used in this paper [here](). 
+<div align="center">
+<img src="assets/benchmark_statistics.png" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
 
 
 ## Dataset Samples: O-UCF.
