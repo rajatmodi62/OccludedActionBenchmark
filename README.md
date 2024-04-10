@@ -34,6 +34,6 @@ allocate a group of neurons to represent a node in a parse tree
 . The inability of neural nets to dynamically allocate neurons was the motivation for a
 series of models that used “capsules”- Dr. Geoff Hinton, GLOM "
 
-We now confirm that capsules undergo collapse if too many objects are present in the scene. This is problem with all other models: there memory increases with number of objects in the scene.
+We now confirm that capsules undergo collapse if too many objects are present in the scene. This is problem with all other models including transformers: there memory increases with number of objects in the scene.
 
 <img src="assets/collapse.png" alt="Hinton's Islands of agreement" width="600" height="300">
