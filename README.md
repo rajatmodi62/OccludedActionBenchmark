@@ -7,7 +7,13 @@
 [Yogesh Singh Rawat](https://scholar.google.com.sg/citations?user=D_JvEcwAAAAJ&hl=en),
 
 
-This is the official implementation and dataset release for the paper "On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes".
+This is the official implementation and dataset release for our NeurIPS-2023 paper "On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes".
 
 
 ## GLOM: Hinton's Islands of agreement. 
+
+> "A Static Image is (a) Rather Boring Video- Dr. Geoff Hinton, Forward Forward Algorithm: Some Preliminary Investigations "
+
+Let's do a boring thing for now:
+
+
