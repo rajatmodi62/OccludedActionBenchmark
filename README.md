@@ -22,3 +22,18 @@ This is the official implementation and dataset release for our **NeurIPS 2023 p
 
 <img src="assets/island_dataset.gif" alt="Island Datasets" width="600" height="300">
 
+## Limitations of capsules.
+
+>" The fundamental weakness of capsules is that they use a mixture to
+model the set of possible parts. This forces a hard decision about whether a
+car headlight and an eye are really different parts. If they are modeled by the
+same capsule, the capsule cannot predict the identity of the whole. If they are
+modeled by different capsules the similarity in their relationship to their whole
+cannot be captured. If we want to make neural networks that understand images in the same way as people do, we need to figure out how neural networks can represent part-whole hierarchies. This is difficult because a real neural network cannot dynamically
+allocate a group of neurons to represent a node in a parse tree
+. The inability of neural nets to dynamically allocate neurons was the motivation for a
+series of models that used “capsules”- Dr. Geoff Hinton, GLOM "
+
+We now confirm that capsules undergo collapse if too many objects are present in the scene. This is problem with all other models: there memory increases with number of objects in the scene.
+
+<img src="assets/collapse.png" alt="Hinton's Islands of agreement" width="600" height="300">
