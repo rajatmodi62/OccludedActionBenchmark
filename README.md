@@ -123,7 +123,7 @@ We present the comparisons of our models with supervised baselines, as well as t
 
 We thank  [Sindy Löwe](https://github.com/loeweX/RotatingFeatures) whose github repo helped us organize our own work. We are grateful to the amazing work of [Mvitv2](https://arxiv.org/abs/2112.01526) which serves as a backbone in our net. Finally, we thank Dr. Geoff Hinton sir for his amazing paper on [GLOM](https://arxiv.org/abs/2102.12627).
 
-## Please do cite us.
+## Please do consider citing us.
 
 If you like whatever we have presented here, and it helps you, it shall mean a lot to us if you cite us.
 Thank you so much for your interest.  
