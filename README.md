@@ -83,3 +83,11 @@ Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotat
 <div align="center">
 <img src="assets/ovis_jhmdb.gif" alt="Hinton's Islands of agreement" width="600" height="300">
 </div>
+
+
+## Comparisons
+<div align="center">
+<img src="assets/comparison.png" alt="Hinton's Islands of agreement" width="900" height="300">
+</div>
+
+
