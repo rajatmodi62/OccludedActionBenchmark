@@ -34,7 +34,7 @@ cd codebase/codebase_islands/
 python hinton_islands.py
 ```
 you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue if you face any sort of troubles. 
-## Limitations of capsules.
+## What is wrong with capsules?
 
 >" The fundamental weakness of capsules is that they use a mixture to
 model the set of possible parts. This forces a hard decision about whether a
