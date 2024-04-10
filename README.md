@@ -53,7 +53,7 @@ What happens when number of objects in the scene scale up? To answer this, we **
 
 
 ## Dataset Samples: O-UCF.
-Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels are same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). 
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). 
 
 <div align="center">
 <img src="assets/o_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
@@ -61,7 +61,7 @@ Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotat
 
 
 ## Dataset Samples: O-JHMDB.
-Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annotation labels same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct)
+Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct)
 
 <div align="center">
 <img src="assets/o_jhmdb.gif" alt="Hinton's Islands of agreement" width="600" height="300">
@@ -74,10 +74,10 @@ Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annot
 <img src="assets/ovis_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
 </div>
 
-Consists of realistic occluders from YouTubeVIS placed on top of  on top of UCF-24 dataset . Annotation labels same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct)
+Consists of realistic occluders from YouTubeVIS placed on top of  on top of UCF-24 dataset . Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct)
 
 ## Dataset Samples: OVIS-JHMDB.
-Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels same as official JHMDB-21 and nd can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). 
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). 
 
 
 <div align="center">
