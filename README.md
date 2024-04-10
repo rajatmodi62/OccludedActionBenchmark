@@ -152,7 +152,7 @@ Thank you so much for your interest and valuable time.
   journal={Advances in neural information processing systems},
   volume={31},
   year={2018}
-
+}
   @article{grover2024revealing,
   title={Revealing the unseen: Benchmarking video action recognition under occlusion},
   author={Grover, Shresth and Vineet, Vibhav and Rawat, Yogesh},
@@ -169,5 +169,5 @@ Thank you so much for your interest and valuable time.
   year={2024}
 }
 
-}
+
 ```
