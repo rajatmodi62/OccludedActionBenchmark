@@ -36,7 +36,7 @@ We release the code to try the islands of agreement on any image in-the-wild. Na
 cd codebase/codebase_islands/
 python hinton_islands.py
 ```
-you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue [here](https://github.com/rajatmodi62/OccludedActionBenchmark/issues) if you face any sort of troubles. 
+you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue [here](https://github.com/rajatmodi62/OccludedActionBenchmark/issues) if you face any sort of troubles. This repo is just maintained by a small student: i will try to get to your issue whenever i can. Thanks for your kind understanding.
 ## What is wrong with capsules?
 
 >" The fundamental weakness of capsules is that they use a mixture to
