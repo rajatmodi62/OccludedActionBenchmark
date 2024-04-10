@@ -16,5 +16,5 @@ This is the official implementation and dataset release for our **NeurIPS 2023 p
 
 Official OpenReview Discussions can be found [here](https://openreview.net/forum?id=0cltUI2Sto&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions)).
 
-**Working Principle:**
+**Working Principle:** Let
 
