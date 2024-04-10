@@ -117,3 +117,30 @@ We present the comparisons of our models with supervised baselines, as well as t
 <div align="center">
 <img src="assets/benchmark_ovisucf_jhmdb.png" alt="Hinton's Islands of agreement" width="900" height="300">
 </div>
+
+
+## Acknowledgements. 
+
+We thank  [Sindy Löwe](https://github.com/loeweX/RotatingFeatures) whose github repo helped us organize our own work. We are grateful to the amazing work of [Mvitv2](https://arxiv.org/abs/2112.01526) which serves as a backbone in our net. Finally, we thank Dr. Geoff Hinton sir for his amazing paper on [GLOM](https://arxiv.org/abs/2102.12627).
+
+## Please do cite us.
+
+If you like whatever we have presented here, and it helps you, it shall mean a lot to us if you cite us.
+Thank you so much for your interest.  
+
+```
+@article{modi2024occlusions,
+  title={On Occlusions in Video Action Detection: Benchmark Datasets And Training Recipes},
+  author={Modi, Rajat and Vineet, Vibhav and Rawat, Yogesh},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+
+@article{modi2022video,
+  title={Video action detection: Analysing limitations and challenges},
+  author={Modi, Rajat and Rana, Aayush Jung and Kumar, Akash and Tirupattur, Praveen and Vyas, Shruti and Rawat, Yogesh Singh and Shah, Mubarak},
+  journal={arXiv preprint arXiv:2204.07892},
+  year={2022}
+}
+```
