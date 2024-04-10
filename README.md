@@ -29,6 +29,11 @@ This is the official implementation and dataset release for our **NeurIPS 2023**
 We release the code to try the islands of agreement on any image in-the-wild. Navigate to codebase/ directory. For environment installation, kindly follow the installation process outlined in official slowfast repo [here](https://github.com/facebookresearch/SlowFast/blob/main/INSTALL.md). This code has been tested with pytorch 1.13.1 , cuda 11.6, with ubuntu 22.04. Note that it shall only suport gpus greater in generation than turings. The most recent one was Hopper at the time of writing this readme. (April 10, 2024).
 
 
+```
+cd codebase/codebase_islands/
+python hinton_islands.py
+```
+you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue if you face any sort of troubles. 
 ## Limitations of capsules.
 
 >" The fundamental weakness of capsules is that they use a mixture to
