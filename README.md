@@ -46,7 +46,7 @@ We now confirm that capsules undergo collapse if too many objects are present in
 
 ## Dataset Release.
 
-What happens when number of objects in the scene scale up? To answer this, we **release** all the datasets used in this paper [here](). The statistics of the dataset can be observed as below:
+What happens when number of objects in a scene scale up? To answer this, we **release** all the datasets used in this paper [here](). The statistics of the dataset can be observed as below:
 <div align="center">
 <img src="assets/benchmark_statistics.png" alt="Hinton's Islands of agreement" width="900" height="300">
 </div>
@@ -86,6 +86,7 @@ Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotat
 
 
 ## Comparisons
+We present the comparisons of our models with supervised baselines, as well as the full benchmark.
 <div align="center">
 <img src="assets/comparison.png" alt="Hinton's Islands of agreement" width="900" height="300">
 </div>
