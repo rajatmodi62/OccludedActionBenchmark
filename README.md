@@ -125,7 +125,7 @@ We thank  [Sindy Löwe](https://github.com/loeweX/RotatingFeatures) whose github
 
 ## Please do consider citing us.
 
-If you like whatever we have presented here, and it helps you, it shall mean a lot to us if you cite us.
+If you like whatever we have presented here, and it helps you, we shall be grateful if you cite us.
 Thank you so much for your interest and valuable time.  
 
 ```
