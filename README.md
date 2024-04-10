@@ -143,4 +143,12 @@ Thank you so much for your interest and valuable time.
   journal={arXiv preprint arXiv:2204.07892},
   year={2022}
 }
+
+@article{duarte2018videocapsulenet,
+  title={Videocapsulenet: A simplified network for action detection},
+  author={Duarte, Kevin and Rawat, Yogesh and Shah, Mubarak},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
 ```
