@@ -48,7 +48,35 @@ We now confirm that capsules undergo collapse if too many objects are present in
 
 What happens when number of objects in the scene scale up? To answer this, we **release** all the datasets used in this paper [here](). 
 
+
+## Dataset Samples: O-UCF.
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels same as official UCF-24. 
+
 <div align="center">
-<img src="assets/benchmark_statistics.png" alt="Hinton's Islands of agreement" width="600" height="300">
+<img src="assets/o_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
 </div>
 
+
+## Dataset Samples: O-JHMDB.
+Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annotation labels same as official JHMDB-21. 
+
+<div align="center">
+<img src="assets/o_jhmdb.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
+
+
+## Dataset Samples: OVIS-UCF.
+
+<div align="center">
+<img src="assets/ovis_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
+
+Consists of realistic occluders from YouTubeVIS placed on top of  on top of UCF-24 dataset . Annotation labels same as official UCF-24.
+
+## Dataset Samples: OVIS-JHMDB.
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels same as official JHMDB-21. 
+
+
+<div align="center">
+<img src="assets/ovis_jhmdb.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
