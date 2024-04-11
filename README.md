@@ -12,7 +12,7 @@ This is the official implementation and dataset release for our **NeurIPS 2023**
 ## Updates
 ![Page 1](assets/little_dino.png)
 
-- `2024.04`:  GLOM couldd be made to work. Surely you are joking, Mr. Feynman. Stay tuned (lol).....
+- `2024.04`:  GLOM could be made to work. Surely you are joking, Mr. Feynman. Stay tuned (lol).....
 - `2023.12`: [NeurIPS23] Check out our other exciting work which studies occlusions in action recognition [here](https://shroglck.github.io/rev_unseen/) !!
 
 ## GLOM: Hinton's Islands of agreement. 
