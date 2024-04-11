@@ -40,7 +40,7 @@ python hinton_islands.py
 ```
 you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue [here](https://github.com/rajatmodi62/OccludedActionBenchmark/issues) if you face any sort of troubles. This repo is just maintained by a small student: i will try to get to your issue whenever i can. Thanks for your kind understanding.
 
-**t-sne too slow**: visualization relies on t-sne. it parallelizes on a cpu but is too slow. [tsne-cuda](https://github.com/CannyLab/tsne-cuda) is good, but doesnt work beyond 2 components. But, the mechanism presented above projects it to 3 dimensions. The general principle is same as entropy in thermodynamics: the more dimensions you can visualize, the more you see. I could only think of a 3D visualization: treat the vectors as an image. Maybe, i will write a faster variant of tsne on cuda later, when i get time. 
+**t-sne too slow**: visualization relies on t-sne. it parallelizes on a cpu but is too slow. [tsne-cuda](https://github.com/CannyLab/tsne-cuda) is good, but doesnt work beyond 2 components. But, the mechanism presented above projects it to 3 dimensions. The general principle is same as entropy in thermodynamics: the more dimensions you can visualize, the more you see. I could only think of a 3D visualization: treat the vectors as an image. Maybe, i will write a faster variant of tsne on cuda later on, when i get time. 
 ## What is wrong with capsules?
 
 >" The fundamental weakness of capsules is that they use a mixture to
