@@ -36,6 +36,7 @@ We release the code to try the islands of agreement on **any image in-the-wild**
 
 ```
 cd codebase/codebase_islands/
+bash download.sh 
 python hinton_islands.py
 ```
 you can place your own image in the `codebase/codebase_islands/` directory and rename it accordingly. Please feel free to raise an issue [here](https://github.com/rajatmodi62/OccludedActionBenchmark/issues) if you face any sort of troubles. This repo is just maintained by a small student: i will try to get to your issue whenever i can. Thanks for your kind understanding.
