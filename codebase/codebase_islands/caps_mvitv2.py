@@ -535,4 +535,4 @@ class CapsNet(nn.Module):
         cross112 = cross112.detach().cpu()
         return cross112
     
-    
+#rmodi:deliberately suppressed fwd pass, dont wanna confuse reader. 
