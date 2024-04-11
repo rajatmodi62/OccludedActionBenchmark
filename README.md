@@ -74,6 +74,15 @@ Ok, so capsules/transformers face some fundamental issues. What happens when num
 
 **The Software Developer**: Hey, i want a simple way to use the dataset. Well, we support huggingface too.  
 
+
+## Instructions to use dataset (Mounting Squash)
+Squashfs images can be unpacked in windows with 7-zip. The main fork 7-zip doesn't support lz4 compression, but this one does.
+In linux, they can be directly mounted or mounted with squashfuse. For example, either:
+
+mount directly with the command: `sudo mount -o loop,ro image1.sq /mnt/image1` (no additional software needed)
+mount with squashfuse: `mkdir image1; squashfuse image1.sq image1`
+
+obviously, image1 here is the name of the squash you download.
 ## Dataset Samples: O-UCF.
 Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
