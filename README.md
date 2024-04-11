@@ -163,14 +163,3 @@ Thank you so much for your interest and valuable time.
   volume={36},
   year={2024}
 }
-
-@article{lowe2024rotating,
-  title={Rotating features for object discovery},
-  author={L{\"o}we, Sindy and Lippe, Phillip and Locatello, Francesco and Welling, Max},
-  journal={Advances in Neural Information Processing Systems},
-  volume={36},
-  year={2024}
-}
-
-
-```
