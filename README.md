@@ -19,7 +19,7 @@ This is the official implementation and dataset release for our **NeurIPS 2023**
 
 > "A Static Image is (A) Rather Boring Video- Dr. Geoff Hinton, Forward Forward Algorithm: Some Preliminary Investigations "
 
-
+We have presented this at NeurIPS2023.
 **Working Principle:** Let a boring static image be repeated T=8 times (number of frames) along the temporal axis. It then becomes a boring video which doesnt change through time. Then, it is pumped through a VIDEO- transformer and output values of lower attention layers are visualized via simple t-sNE clustering. We can see the islands. **No more fancy boxes, semantic labels, upsampling, explicit decoders or other fluff [GLOM]**. Grouping happens as a part of bottom-up recognition only.  Islands of agreement have thus been observed now in transformers. **Official** OpenReview Discussions with our respected AC's,SAC's and PC's can be found [here](https://openreview.net/forum?id=0cltUI2Sto&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions)). Part-whole parse-trees are entangled (for now). Qualitative results presented below **haven't been** cherry-picked. 
 
 <div align="center">
