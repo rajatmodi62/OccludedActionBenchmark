@@ -75,7 +75,7 @@ Ok, so capsules/transformers face some fundamental issues. What happens when num
 **The Software Developer**: Hey, i want a simple way to use the dataset. Well, we support huggingface too.  
 
 ## Dataset Samples: O-UCF.
-Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). Train set shall be up soon.
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
 <div align="center">
 <img src="assets/o_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
@@ -83,7 +83,7 @@ Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotat
 
 
 ## Dataset Samples: O-JHMDB.
-Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). Train set shall be up soon.
+Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
 <div align="center">
 <img src="assets/o_jhmdb.gif" alt="Hinton's Islands of agreement" width="600" height="300">
@@ -96,9 +96,9 @@ Consists of static/dynamic occlusions on top of official JHMDB-21 dataset. Annot
 <img src="assets/ovis_ucf.gif" alt="Hinton's Islands of agreement" width="600" height="300">
 </div>
 
-Consists of realistic occluders from YouTubeVIS placed on top of  on top of UCF-24 dataset . Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-ovis_ucf.sq). Train set shall be up soon.
+Consists of realistic occluders from YouTubeVIS placed on top of  on top of UCF-24 dataset . Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-ovis_ucf.sq). 
 ## Dataset Samples: OVIS-JHMDB.
-Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-ovis_jhmdb.sq). Train set shall be up soon.
+Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official JHMDB-21 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-ovis_jhmdb.sq). 
 
 
 <div align="center">
