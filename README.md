@@ -90,7 +90,7 @@ obviously, image1 here is the name of the squash you download.
 
 ## Dataset Samples: Real-UCF.
 <div align="center">
-<img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+<img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="150" height="300">
 </div>
 
 
