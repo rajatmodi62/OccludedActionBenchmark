@@ -35,6 +35,7 @@ We release the code to try the islands of agreement on **any image in-the-wild**
 
 ```
 !!install slowfast environment first 
+!!anaconda activates slowfast
 conda activate slowfast
 cd codebase/codebase_islands/
 bash download.sh 
