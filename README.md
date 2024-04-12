@@ -93,7 +93,7 @@ obviously, image1 here is the name of the squash you download.
 <img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="150" height="300">
 </div>
 
-Olympics. Millions were glued to their TV. The place where the best of humans compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. Minds became one, and bodies flowed together. The vectors of neurons in their brains were rotating synchronously: they have the same phase and magnitude. They were binding together.
+Olympics. Millions were glued to their TV. The place where the best of humans compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. Minds became one, and bodies flowed together. The vectors of neurons in their brains were rotating synchronously: they have the same phase and magnitude. There is no complexity, its simple: they were binding together.
 
 Tandem events are good for occlusions: the actor behind is largely covered by the actor before it. Let's try to make detectors work on this. 
 
