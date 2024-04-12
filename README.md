@@ -95,7 +95,7 @@ obviously, image1 here is the name of the squash you download.
 
 Olympics. Millions were glued to their TV. The place where the best of humans compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. Minds became one, and bodies flowed together. The vectors of neurons in their brains were rotating synchronously: they converged on same phase and magnitude. They saw only one object: the pool in front of them. There is no complexity, its simple: they were binding together. Islands are potatoes whose rotation takes a lot of time to track. [GLOM]
 
-Tandem events are good for occlusions: the actor behind is largely covered by the actor before it. Make detectors work on this lol. This cute split has been release [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-real_oucf.sq)
+Tandem events are good for occlusions: the actor behind is largely covered by the actor before it. Make detectors work on this lol. This cute little split has been released [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-real_oucf.sq)
 ## Dataset Samples: O-UCF.
 Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
