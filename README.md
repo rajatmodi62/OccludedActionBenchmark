@@ -93,7 +93,7 @@ obviously, image1 here is the name of the squash you download.
 <img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="150" height="300">
 </div>
 
-Olympics. Millions glued their eyes to their digital screens. The place where the best of (humans) compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. Minds became one, and bodies flowed together. The vectors of neurons in their brains were rotating synchronously: they converged onto same phase and magnitude. They saw only one object: the swimming pool in front of them. There is no complexity, its simple: their destinies were binding and intertwined together. Islands are potatoes whose rotation takes a lot of time to track. [GLOM]
+Olympics. Millions glued their eyes to their digital screens. The place where the best of (humans) compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. Their minds became one and bodies flowed together. The vectors of neurons in their brains were rotating synchronously: they converged onto same phase and magnitude. They saw only one object: the swimming pool in front of them. There is no complexity, its simple: their destinies were binding and intertwined together. Islands are potatoes whose rotation takes a lot of time to track. [GLOM]
 
 Tandem events are good for occlusions: the actor behind is largely covered by the actor before it. Make detectors work on this lol. This cute little guy has been released [here](https://www.crcv.ucf.edu/data1/rajat_occ_action_detection/mso-real_oucf.sq).
 ## Dataset Samples: O-UCF.
