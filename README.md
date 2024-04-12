@@ -86,6 +86,14 @@ mount directly with the command: `sudo mount -o loop,ro image1.sq /mnt/image1` (
 mount with squashfuse: `mkdir image1; squashfuse image1.sq image1`
 
 obviously, image1 here is the name of the squash you download.
+
+
+## Dataset Samples: Real-UCF.
+<div align="center">
+<img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
+
+
 ## Dataset Samples: O-UCF.
 Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
