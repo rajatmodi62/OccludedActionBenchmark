@@ -93,6 +93,9 @@ obviously, image1 here is the name of the squash you download.
 <img src="assets/tandem_1.gif" alt="Hinton's Islands of agreement" width="150" height="300">
 </div>
 
+Olympics. Millions were glued to their TV. The place where the best of humans compete. Audience thought they were competing. But, the actors were in synchrony: they were collaborating. The vectors of neurons in their brains were rotating synchronously: they have the same phase and magnitude. 
+
+Tandem events are good for occlusions: the actor behind is largely covered by the actor before it. Let's try to make detectors work on this. 
 
 ## Dataset Samples: O-UCF.
 Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
