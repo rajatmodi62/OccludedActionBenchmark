@@ -98,7 +98,7 @@ obviously, image1 here is the name of the squash you download.
 Consists of static/dynamic occlusions on top of official UCF-24 dataset. Annotation labels remain same as official UCF-24 and can be found [here](https://drive.google.com/drive/folders/1BvGywlAGrACEqRyfYbz3wzlVV3cDFkct). Occluded Test set can be found [here](). 
 
 <div align="center">
-<img src="assets/o_ucf.gif" alt="Hinton's Islands of agreement" width="300" height="300">
+<img src="assets/o_ucf.gif" alt="Hinton's Islands of agreement" width="150" height="300">
 </div>
 
 
