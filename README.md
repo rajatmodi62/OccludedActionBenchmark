@@ -13,9 +13,9 @@ This is the **official** implementation and dataset release for our **NeurIPS 20
 ![Page 1](assets/little_dino.png)
 
 - `2024.04`:  I wish GLOM could be made to work. Surely you are joking, Mr. Feynman.
-
+<div align="center">
 <img src="assets/dog.gif" alt="doggy boy" width="300" height="300">
-
+</div>
 - `2023.12`: [NeurIPS23] Check out our other exciting work which studies occlusions in action recognition [here](https://shroglck.github.io/rev_unseen/) !!
 
 ## GLOM: Hinton's Islands of agreement. 
