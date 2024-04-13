@@ -39,7 +39,7 @@ We release the code to try the islands of agreement on **any image in-the-wild**
 ```
 !!install slowfast environment first 
 !!hinton activates anaconda
-!!anaconda activate slowfast weights to blur our memories
+!!anaconda activate slowfast weights to blur our fast memories slowly 
 ```
 ```
 conda activate slowfast
