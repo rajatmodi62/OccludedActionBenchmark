@@ -11,7 +11,7 @@ This is the **official** implementation and dataset release for our **NeurIPS 20
 
 ## Updates
 ![Page 1](assets/little_dino.png)
-
+- `2024.10`:  Holy Moly!! GLOM works!! And it is in NeurIPS'24. We call it Asynchronous Perception Machines.
 - `2024.04`:  I wish GLOM could be made to work. Surely you are joking, Mr. Feynman.
 <div align="center">
 <img src="assets/dog.gif" alt="doggy boy" width="300" height="300">
